@@ -1,0 +1,17 @@
+
+  .navbarcolor {
+    background-color: dodgerblue;
+ height: 10vh;
+ text-transform: uppercase;
+ font-weight: 900;
+  }
+  .btn{
+    background: white;
+    width: 10%;
+    height: 40px;
+    position: relative;
+    border: 2px solid #fff;
+    left: -40px;
+    color: white;
+  }
+
