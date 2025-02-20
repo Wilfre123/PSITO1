@@ -1,9 +1,10 @@
 
   .navbarcolor {
     background-color: dodgerblue;
- height: 10vh;
+height: 45px;;
  text-transform: uppercase;
  font-weight: 900;
+ border-top-left-radius:50%;
   }
   .btn{
     background: white;
@@ -13,5 +14,9 @@
     border: 2px solid #fff;
     left: -40px;
     color: white;
+    transition: 0.1s ;
+  }
+  .btn:hover{
+   transform: scale(1.1) 
   }
 
